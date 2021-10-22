@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Mar550
-- 👀 I’m interested in ERP Softwares 
-- 🌱 I’m currently learning how to use Github and Git 
+- 👋 Hi, I’m Marouane
 - 📫 Here's the mail adress where you can reach me marouane.merno@gmail.com
 
 <!---
